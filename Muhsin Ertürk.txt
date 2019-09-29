@@ -1,0 +1,159 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+	<style>
+	h1 {color: yellow}
+	th {text-align-last: left}
+table, th, td {
+  border: 3px solid yellow;
+  border-collapse: collapse;
+  width: 70%;
+}
+.temel {
+  background-color: black;
+  color: white;
+  
+  
+}
+</style>
+</head>
+<body style="background-color:black">
+<div class="temel" ><h1>Kişisel Bilgiler</h1>
+<img style="width:10%" src="resim.jpeg" align="right"/>
+<table>
+  
+  <tr>
+    <th>Adı</th>
+    <td>Muhsin</td>
+    
+  </tr>
+  <tr>
+    <th>Soyadı</th>
+    <td>Ertürk</td>
+    
+  </tr>
+  <tr>
+    <th>Doğum Tarihi</th>
+    <td>27.11.1998</td>
+  </tr>
+  <tr>
+    <th>Doğum Yeri</th>
+    <td>Kahramanmaraş</td>
+    
+  </tr>
+  <tr>
+    <th>Adres</th>
+    <td></td>
+    
+  </tr>
+  <tr>
+    <th>Telefon</th>
+    <td>+905330559380</td>
+    
+  </tr>
+  <tr>
+    <th>Mail</th>
+    <td>mhns_rtrk@outlook.com</td>
+    
+  </tr>
+</table>
+</div>
+<div class="temel"><h1>İş Tecrübeleri</h1>
+<table>
+  <tr>
+    <th>Çalıştığı Şirket</th>
+    <th>Pozisyonu</th>
+    <th>Çalıştığı Süre</th>
+  </tr>
+  <tr>
+    <td>IBM</td>
+    <td>Yazılım Mühendisliği</td>
+    <td>3 Yıl</td>
+  </tr>
+  <tr>
+    <td>ARM Holdings Plc</td>
+    <td>Bilgisayar Mühendisliği</td>
+    <td>6 Yıl</td>
+  </tr>
+</table>
+</div>
+<div class="temel"><h1>Öğrenim Durumu</h1>
+<table>
+<tr>
+    <th>Okul Adı</th>
+    <th>Bölüm</th>
+    
+  </tr>
+  <tr>
+    <td>Kadriye Çalık Anadolu Lisesi</td>
+    <td></td>
+    
+  </tr>
+  <tr>
+    <td>İzmir Bakırçay Üniversitesi</td>
+    <td>Bilgisayar Mühendisliği</td>
+    
+  </tr>
+  <tr>
+    <td>Harvard Üniversitesi</td>
+    <td>Bilgisayar Mühendisliği(Doktora)</td>
+    
+  </tr>
+</div>
+</table>
+<div class="temel"><h1>Bilgisayar Bilgisi</h1>
+<ul>
+  <li>C: Çok iyi</li>
+  <li>C#: İyi</li>
+  <li>Html: Orta</li>
+</ul>
+
+</div>
+<div class="temel"><h1>Yabancı Dil</h1>
+<ul>
+  <li>İngilizce: Konuşma: İyi Okuma: İyi Yazma: İyi</li>
+  <li>Almanca: Konuşma: Orta Okuma: İyi Yazma: Orta</li>
+  
+</ul>
+</div>
+<div class="temel"><h1>Askerlik Durumu</h1>
+<p>Yaptı</p>
+</div>
+<div class="temel"><h1>Ehliyet</h1>
+<ul>
+  <li>A</li>
+  <li>B</li>
+  <li>C</li>
+  <li>D1E</li>
+</ul>
+</div>
+<div class="temel"><h1>Sağlık Durumu</h1>
+<p>Herhangi bir sağlık sorunu yok. </p>
+</div>
+<div class="temel"><h1>Sigorta</h1>
+<p>Özel Sağlık Sigortası</p>
+</div>
+<div class="temel"><h1>Referanslar</h1>
+<table>
+  <tr>
+    <th>İsmi</th>
+    <th>Soyismi</th>
+    <th>Telefon</th>
+  </tr>
+  <tr>
+    <td>Buğra</td>
+    <td>Erbay</td>
+    <td>+905000000000</td>
+  </tr>
+  <tr>
+    <td>Emre</td>
+    <td>Şanlı</td>
+    <td>+905000000000</td>
+  </tr>
+</table>
+</div>
+</body>
+</html>
